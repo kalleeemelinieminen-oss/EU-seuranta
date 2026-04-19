@@ -1,0 +1,8 @@
+{
+  "name": "eu-seuranta",
+  "version": "1.0.0",
+  "description": "EU-lainsäädäntöseuranta suomalaisille kansalaisille",
+  "engines": {
+    "node": "18.x"
+  }
+}
